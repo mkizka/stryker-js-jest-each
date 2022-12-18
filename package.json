@@ -1,0 +1,12 @@
+{
+  "name": "stryker-js-jest-each",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@stryker-mutator/core": "^6.3.0",
+    "@stryker-mutator/jest-runner": "^6.3.0",
+    "jest": "^29.3.1"
+  }
+}
